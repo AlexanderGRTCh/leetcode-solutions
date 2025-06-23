@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution(object):
+    # O(n) time O(1) space complexity
     def mergeTwoLists(self, list1, list2):
         """
         :type list1: Optional[ListNode]
